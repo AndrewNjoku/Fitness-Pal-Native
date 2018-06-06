@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="PrimaryAppThemeColor">#FF00A0D6</color>
+    <color name="TwoToneGreyDark">#FF00A0D6</color>
+    <color name="colorSecondry">#00fff7</color>
+    <color name="OffWhiteForCards">#efefef</color>
+    <color name="BackGroundWhite">#ffffff</color>
+
+
+</resources>
